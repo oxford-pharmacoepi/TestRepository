@@ -1,0 +1,3 @@
+"Concept Set ID","Name","Concept ID","Concept Code","Concept Name","Domain","Vocabulary","Standard Concept","Valid Start Date","Valid End Date","Exclude","Descendants","Mapped"
+1886838,"confirmed covid-19 snomed",37311061,"840539006","COVID-19","Condition","SNOMED","S","2020-01-31","2099-12-31","FALSE","TRUE","FALSE"
+1886838,"confirmed covid-19 snomed",605554,"1119302008","Acute COVID-19","Condition","SNOMED","S","2021-01-31","2099-12-31","FALSE","TRUE","FALSE"
