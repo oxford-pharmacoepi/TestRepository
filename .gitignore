@@ -5,3 +5,6 @@
 *.DS_Store
 *.wal
 *.duckdb
+top_secret.Rmd
+secret_data_folder
+my_folder_mpm//*.R
