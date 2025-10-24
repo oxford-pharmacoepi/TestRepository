@@ -8,7 +8,7 @@ This is **bold**, this is *italic*.
 
 Ask ChatGPT if you have any question!
 
-Martí was here... and broke the file.
+Martí Català was here... and broke the file.
 
 bla bla bla ... 30 bla bla bla
 
