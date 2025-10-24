@@ -10,8 +10,10 @@ Ask ChatGPT if you have any question!
 
 Martí was here...
 
-bla bla bla ...
+Lucía C was here too!
 
 - A bullet point
 
 - [A link](https://oxford-pharmacoepi.github.io/GitHubTraining/)
+
+- The EHDEN Foundation is cool :)
